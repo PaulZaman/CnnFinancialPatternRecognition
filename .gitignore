@@ -1,0 +1,7 @@
+# Ignore everything in data/
+data/zips/**
+data/unzipped/**
+data/smaller_dataset/**
+.DS_Store
+data/spy_candles/**
+.vscode
